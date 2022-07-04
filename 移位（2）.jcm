@@ -1,0 +1,296 @@
+{
+	"version": "1.0.0",
+	"flag": "JCM",
+	"data": [
+		{
+			"key": 0,
+			"instruction": "20080001",
+			"command": "PCoe,ARce,BM=0,NA=001"
+		},
+		{
+			"key": 1,
+			"instruction": "00069002",
+			"command": "ARoe',DRce',PCinc,RD,BM=0,NA=002"
+		},
+		{
+			"key": 2,
+			"instruction": "CC000003",
+			"command": "DRoe,IRce,BM=0,NA=003"
+		},
+		{
+			"key": 3,
+			"instruction": "00000404",
+			"command": "BM=2,NA=004"
+		},
+		{
+			"key": 4,
+			"instruction": "00000A08",
+			"command": ""
+		},
+		{
+			"key": 5,
+			"instruction": "",
+			"command": ""
+		},
+		{
+			"key": 6,
+			"instruction": "00000A28",
+			"command": "BM=5,NA=028"
+		},
+		{
+			"key": 7,
+			"instruction": "00000800",
+			"command": "BM=4,NA=000"
+		},
+		{
+			"key": 8,
+			"instruction": "",
+			"command": ""
+		},
+		{
+			"key": 10,
+			"instruction": "",
+			"command": ""
+		},
+		{
+			"key": 11,
+			"instruction": "20080012",
+			"command": "PCoe,ARce,BM=0,NA=012"
+		},
+		{
+			"key": 12,
+			"instruction": "20080013",
+			"command": ""
+		},
+		{
+			"key": 15,
+			"instruction": "2008001D",
+			"command": ""
+		},
+		{
+			"key": 18,
+			"instruction": "00069016",
+			"command": ""
+		},
+		{
+			"key": 19,
+			"instruction": "00069014",
+			"command": ""
+		},
+		{
+			"key": 20,
+			"instruction": "C0080015",
+			"command": ""
+		},
+		{
+			"key": 21,
+			"instruction": "00061016",
+			"command": ""
+		},
+		{
+			"key": 22,
+			"instruction": "D0000006",
+			"command": ""
+		},
+		{
+			"key": 29,
+			"instruction": "0006901E",
+			"command": ""
+		},
+		{
+			"key": 30,
+			"instruction": "D400001F",
+			"command": ""
+		},
+		{
+			"key": 31,
+			"instruction": "20700020",
+			"command": ""
+		},
+		{
+			"key": 32,
+			"instruction": "60080015",
+			"command": ""
+		},
+		{
+			"key": 38,
+			"instruction": "00000200",
+			"command": ""
+		},
+		{
+			"key": 39,
+			"instruction": "A4000200",
+			"command": ""
+		},
+		{
+			"key": 40,
+			"instruction": "54000007",
+			"command": "GRSoe,Ace,BM=0,NA=007"
+		},
+		{
+			"key": 41,
+			"instruction": "40080035",
+			"command": ""
+		},
+		{
+			"key": 42,
+			"instruction": "00000000",
+			"command": ""
+		},
+		{
+			"key": 43,
+			"instruction": "00000000",
+			"command": ""
+		},
+		{
+			"key": 44,
+			"instruction": "20080033",
+			"command": "PCoe,ARce,BM=0,NA=033"
+		},
+		{
+			"key": 47,
+			"instruction": "2008003D",
+			"command": ""
+		},
+		{
+			"key": 50,
+			"instruction": "60080035",
+			"command": ""
+		},
+		{
+			"key": 51,
+			"instruction": "00069034",
+			"command": ""
+		},
+		{
+			"key": 52,
+			"instruction": "C0080035",
+			"command": ""
+		},
+		{
+			"key": 53,
+			"instruction": "00061036",
+			"command": ""
+		},
+		{
+			"key": 54,
+			"instruction": "D4000007",
+			"command": ""
+		},
+		{
+			"key": 60,
+			"instruction": "00000000",
+			"command": ""
+		},
+		{
+			"key": 61,
+			"instruction": "0006903E",
+			"command": ""
+		},
+		{
+			"key": 62,
+			"instruction": "D400003F",
+			"command": ""
+		},
+		{
+			"key": 63,
+			"instruction": "20700032",
+			"command": ""
+		},
+		{
+			"key": 64,
+			"instruction": "00300E50",
+			"command": ""
+		},
+		{
+			"key": 65,
+			"instruction": "94000040",
+			"command": ""
+		},
+		{
+			"key": 68,
+			"instruction": "98F00E50",
+			"command": "TRoe,PSWce,SUB,SVce,BM=7,NA=050"
+		},
+		{
+			"key": 69,
+			"instruction": "60030052",
+			"command": ""
+		},
+		{
+			"key": 70,
+			"instruction": "00052200",
+			"command": ""
+		},
+		{
+			"key": 73,
+			"instruction": "98F00200",
+			"command": ""
+		},
+		{
+			"key": 74,
+			"instruction": "99700200",
+			"command": ""
+		},
+		{
+			"key": 80,
+			"instruction": "68000280",
+			"command": ""
+		},
+		{
+			"key": 81,
+			"instruction": "60030052",
+			"command": ""
+		},
+		{
+			"key": 82,
+			"instruction": "00052200",
+			"command": ""
+		},
+		{
+			"key": 84,
+			"instruction": "00000000",
+			"command": ""
+		},
+		{
+			"key": 88,
+			"instruction": "00000058",
+			"command": ""
+		},
+		{
+			"key": 89,
+			"instruction": "00000626",
+			"command": ""
+		},
+		{
+			"key": 98,
+			"instruction": "18200E50",
+			"command": ""
+		},
+		{
+			"key": 99,
+			"instruction": "18100E50",
+			"command": ""
+		},
+		{
+			"key": 104,
+			"instruction": "00000626",
+			"command": ""
+		},
+		{
+			"key": 108,
+			"instruction": "00000626",
+			"command": ""
+		},
+		{
+			"key": 112,
+			"instruction": "A4000200",
+			"command": ""
+		},
+		{
+			"key": 113,
+			"instruction": "1A700E50",
+			"command": ""
+		}
+	]
+}
